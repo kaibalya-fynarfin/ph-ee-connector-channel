@@ -116,4 +116,5 @@ redis:
     keyFormat: "clientCorrelationId_tenant_api"
     apiList: "/channel/transfer,/channel/collection,/channel/gsma/transaction,/channel/transactionRequest"
 
+
 default_headers: "user-agent,accept,postman-token,host,accept-encoding,connection,content-type,content-length"
